@@ -1,0 +1,12 @@
+{
+  "name": "aspulse-bot-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AsPulse/aspulse-bot-sandbox.git",
+  "author": "AsPulse <aspulse.x@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
